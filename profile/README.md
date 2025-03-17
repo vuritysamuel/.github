@@ -1,5 +1,5 @@
-# I’m a Data Science graduate student and Data Analytics Intern 
-Passionate about building impactful data-driven solutions. This GitHub space is where I showcase my work aimed at driving meaningful insights and impact.
+# Hello!
+I'm Samuel, and I'm passionate about building impactful data-driven solutions. This GitHub space is where I showcase my work aimed at driving meaningful insights and impact.
 
 ## Projects (Finished)
 
@@ -24,8 +24,8 @@ Passionate about building impactful data-driven solutions. This GitHub space is 
   **Associated With:** Data Analyst Intern at People Tech Group
 
 ## Projects (In Progress)
-- F1-Strategic Intelligence Platform - A one-stop platform using F-1 API, Advanced ML, enterprise-scale Data Engineering to build Optimized Race Strategies
-- Betting Analytics Engine - A end-to-end Betting Platform to process and ingest Sports Data and use predictive models for insights.
+- F1-Strategic Intelligence Platform - A one-stop platform using F-1 API, Advanced ML, and enterprise-scale Data Engineering to build Optimized Race Strategies
+- Betting Analytics Engine - An end-to-end betting platform that processes and ingests sports data and uses predictive models for insights.
 - World Bank Data - Analyzing World Bank datasets to glean insights on global development metrics, Employing advanced data transformations and statistical modeling to highlight key socioeconomic trends across diverse regions
 
 ## Stack
