@@ -30,7 +30,7 @@ I’m Samuel, a Data Analytics Intern at the BroadStreet Institute. I hold a Bac
   **Tools:** Python, R, ggplot2, caret
   **Associated With:** Applied Statistics Coursework at Illinois Institute of Technology
 
-  - **Cloud-Based ETL Workflow for E-Commerce Insights**  
+- **Cloud-Based ETL Workflow for E-Commerce Insights**  
   **Description:** Built a serverless pipeline for 1GB of daily data, reducing ingestion time by 40% with automated transformations and event-driven triggers.  
   **Tools:** SQL, AWS Glue, AWS Lambda, Amazon S3  
   **Associated With:** Personal
