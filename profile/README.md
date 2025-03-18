@@ -1,5 +1,11 @@
-# Hello!
-I'm Samuel, and I'm passionate about building impactful data-driven solutions. This GitHub space is where I showcase my work aimed at driving meaningful insights and impact.
+# Hello,
+I'm Samuel, I'm based in Chicago, IL and I work as a Data Analytics Intern at the BroadStreet Institute. I hold a bachelor's degree in Computer Science & a Masters degree in Data Science. I am a driven Data Scientist with Internship experiences in Healthcare Analytics, Retail E-Commerce & Marketing Analytics. My education + experience has enabled me to build efficient systems as well as ask the right questions. but also
+
+##What I'm Good at
+	•	Full-Stack Data Expertise – Proficient in Python and SQL for data wrangling, analysis, and machine learning, with hands-on experience building scalable pipelines (Pandas, Spark) and deploying models on cloud platforms.
+	•	Extensive Domain Knowledge & Business Acumen – I blend data skills with domain knowledge in healthcare, E-Commerce, and Marketing, working with complex datasets to find context-rich insights and solutions that align with industry needs and regulations.
+	•	Impactful Data Solutions – Track record of delivering projects on time, I'm adept at tackling challenging data problems end-to-end and communicating findings to stakeholders to inform strategic decisions.
+	•	End-to-End Project Delivery – Proven experience in owning data initiatives from concept to production. At People Tech Group, I played an instrumental role in developing our Analytics Platform, and am currently experimenting with the application of Bayesian modeling techniques to extract actionable insights on disease trends for County Officials at BroadStreet Institute.
 
 ## Projects (Finished)
 
