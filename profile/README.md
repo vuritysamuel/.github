@@ -2,9 +2,9 @@
 
 **Quick Links for you:**  
 - [Project Repositories](https://github.com/orgs/vuritysamuel/repositories) – to check out completed Projects.
-- [Ongoing Projects]() - to check out work in progress
-- [Resume](https://link-to-your-resume.pdf) – View my full experience and skills.  
-- **Reach Out** svurity@hawk.lit.edu
+- [Ongoing Projects](https://github.com/orgs/vuritysamuel/projects?query=is%3Aopen) - to check out work in progress. 
+- [Resume](https://www.dropbox.com/scl/fi/juashchafe27agk1qyala/Resume_Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=alwzbh2m06ozioov83w9nx6if&st=8h7bp0k7&dl=0) – View my full experience and skills.  
+- svurity@hawk.lit.edu - Reach Out
 
 # Hello,
 I’m Samuel, a Data Analytics Intern at the BroadStreet Institute. I hold a Bachelor’s in Computer Science and a Master’s in Data Science. With internship experiences in a range of domains like Healthcare Analytics, Retail E-Commerce, and Marketing Analytics, I'm adept at building efficient systems and asking the right questions to solve complex Business Problems.
