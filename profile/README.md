@@ -6,7 +6,7 @@
 - [Resume](https://www.dropbox.com/scl/fi/0p3s6c1xz5xtq5us8ekus/Resume_Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=oeobm85d1291zw62ah0kjhwgu&st=jx95y1si&dl=0) – View my full experience and skills.  
 - svurity@hawk.lit.edu - Reach Out
 
-#Now that that's out of the way, 
+Now that that's out of the way, 
 # Hello,
 I’m Samuel, a Data Analytics Intern at the BroadStreet Institute. I hold a Bachelor’s in Computer Science and a Master’s in Data Science. With internship experiences in a range of domains like Healthcare Analytics, Retail E-Commerce, and Marketing Analytics, I'm adept at building efficient systems and asking the right questions to solve complex Business Problems.
 
