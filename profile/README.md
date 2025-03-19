@@ -3,13 +3,12 @@
 **Quick Links for you:**  
 - [Project Repositories](https://github.com/orgs/vuritysamuel/repositories) – to check out completed Projects.
 - [Ongoing Projects](https://github.com/orgs/vuritysamuel/projects?query=is%3Aopen) - to check out work in progress. 
-- [Resume](https://www.dropbox.com/scl/fi/juashchafe27agk1qyala/Resume_Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=alwzbh2m06ozioov83w9nx6if&st=8h7bp0k7&dl=0) – View my full experience and skills.  
+- [Resume](https://www.dropbox.com/scl/fi/0p3s6c1xz5xtq5us8ekus/Resume_Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=oeobm85d1291zw62ah0kjhwgu&st=jx95y1si&dl=0) – View my full experience and skills.  
 - svurity@hawk.lit.edu - Reach Out
-
+Now that that's out of the way, 
 # Hello,
 I’m Samuel, a Data Analytics Intern at the BroadStreet Institute. I hold a Bachelor’s in Computer Science and a Master’s in Data Science. With internship experiences in a range of domains like Healthcare Analytics, Retail E-Commerce, and Marketing Analytics, I'm adept at building efficient systems and asking the right questions to solve complex Business Problems.
-## Quick Links 
--Project Repositories :  
+
 ## What I'm *Really* Good at
 - **Full-Stack Data Expertise** – I write efficient, optimized code in Python and advanced SQL, I'm experienced in building scalable pipelines (Airflow) and deploying models on cloud platforms (AWS). I excel in supervised learning (XGBoost, Random Forests), model tuning (GridSearchCV), and time-series analysis (ARIMA), and have hands-on PyTorch experience. 
 - **Extensive Domain Knowledge & Business Acumen** – I bring real-world experience in healthcare, e-commerce, and marketing, paired with project work in fintech, sports analytics, cloud solutions, and sales. I excel at asking the right questions, collaborating with stakeholders, and delivering solutions that align with industry needs and regulations.
