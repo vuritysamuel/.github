@@ -1,6 +1,4 @@
-**Please Navigate to 
-Repositories for completed Projects </br>
-Projects for in-progress work
+## Recruiters please navigate
 # Hello,
 I’m Samuel, a Data Analytics Intern at the BroadStreet Institute. I hold a Bachelor’s in Computer Science and a Master’s in Data Science. With internship experiences in a range of domains like Healthcare Analytics, Retail E-Commerce, and Marketing Analytics, I'm adept at building efficient systems and asking the right questions to solve complex Business Problems.
 ## Quick Links 
