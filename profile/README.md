@@ -1,54 +1,85 @@
-# Recruiters,
+# Recruiters & Hiring Managers
 
-**Quick Links for you:**  
-- [Project Repositories](https://github.com/orgs/vuritysamuel/repositories) – to check out completed Projects.
-- [Ongoing Projects](https://github.com/orgs/vuritysamuel/projects?query=is%3Aopen) - to check out work in progress. 
-- [Resume](https://www.dropbox.com/scl/fi/0p3s6c1xz5xtq5us8ekus/Resume_Samuel-Vijay-Srinivas-Vurity.pdf?rlkey=oeobm85d1291zw62ah0kjhwgu&st=jx95y1si&dl=0) – View my full experience and skills.  
-- svurity@hawk.lit.edu - Reach Out
+**Quick access:**  
+- **Projects:** https://github.com/orgs/vuritysamuel/repositories  
+- **Work in Progress:** https://github.com/orgs/vuritysamuel/projects  
+- **Resume:** https://www.dropbox.com/scl/fi/0p3s6c1xz5xtq5us8ekus/Resume_Samuel-Vijay-Srinivas-Vurity.pdf  
+- **Contact:** svurity1@gmail.com  
 
-Now that that's out of the way, 
-# Hello,
-I’m a Data Scientist & Analytics Engineer with 4+ years of experience building end-to-end data and machine-learning solutions across e-commerce, retail, healthcare, and financial services.
-My work spans model development, large-scale data pipelines, cloud deployment, and decision-focused analytics, with a consistent focus on translating complex data into measurable business impact.
+---
 
-## What I'm *Really* Good at
-- **Full-Stack Data Expertise** – I write efficient, optimized code in Python and advanced SQL, I'm experienced in building scalable pipelines (Airflow) and deploying models on cloud platforms (AWS). I excel in supervised learning (XGBoost, Random Forests), model tuning (GridSearchCV), and time-series analysis (ARIMA), and have hands-on PyTorch experience. 
-- **Extensive Domain Knowledge & Business Acumen** – I bring real-world experience in healthcare, e-commerce, and marketing, paired with project work in fintech, sports analytics, cloud solutions, and sales. I excel at asking the right questions, collaborating with stakeholders, and delivering solutions that align with industry needs and regulations.
-- **Impactful Data Solutions** – I am learning how to build high-stakes solutions, with work on Bayesian models (PyMC3) for public health risk(BroadStreet Institute) and PyTorch forecasting (TFT) for boosting inventory accuracy (People Tech Group), I am learning to confidently take on harder challenges and produce production-level results.
-- **End-to-End Project Delivery** – I can build clean datasets from messy ones (Kinesis, Pandas), craft models (see above), and am adept at deploying real-time dashboards (Power BI)—turning data into clear, actionable insights for stakeholders like county officials.
+# Hello — I’m Samuel
 
-## Skill Stack
-- **Languages:** Python (Pandas), SQL, R, Scala (Spark basics)
-- **Machine Learning Libraries:** scikit-learn, PyTorch, TensorFlow, LightGBM, XGBoost
-- **Statistics Libraries:** PyMC3, Statsmodels, ARIMA
-- **Cloud Tools:** AWS (S3, Kinesis, Glue, Lambda, Redshift), GCP (BigQuery, Dataflow), Snowflake
-- **Databases:** PostgreSQL, MySQL, MongoDB, Snowflake, Amazon RDS
-- **Data Engineering:** AWS (Glue, S3, Lambda, Redshift), GCP (BigQuery), Snowflake  
-- **Visualization:** Power BI, Seaborn, Matplotlib
-- **Tools:** Airflow, Docker, Spark, Git, CI/CD
+I’m a **Data Scientist & Analytics Engineer** with **4+ years of experience** building end-to-end data and machine-learning solutions across **e-commerce, retail, healthcare, and financial services**.
 
-## Personal + Professional Projects
+My work spans **model development, large-scale data pipelines, cloud deployment, and decision-focused analytics**, with a consistent focus on translating complex data into **measurable business impact**.
 
-- **Home Credit Default Risk Assessment**  
-  **Description:** Tuned ML models on a 300K lending dataset, boosting AUC-ROC from 0.85 to 0.92 and reducing misclassification by 15%.  
-  **Tools:** Python, LightGBM, XGBoost, scikit-learn  
+I’ve worked on **production ML systems** at organizations like **The Home Depot** and **Zensar Technologies**, and I’m currently completing a **Master’s in Data Science** while working as a **Data Analytics Intern at the BroadStreet Institute**.
 
-- **Retail Demand Forecasting**  
-  **Description:** Developed a real-time forecasting model to improve inventory planning accuracy by 10%, saving over $100K in potential losses.  
-  **Tools:** Python, PyTorch (Time Series)  
+---
 
-- **EV Adoption Potential Analysis**
-  **Description:** Conducted analysis of economic and demographic data to identify key predictors for EV adoption in Washington State & developed prescriptive analytics
-  **Tools:** Python, R, ggplot2, caret
+## What I’m Strong At
 
-- **Cloud-Based ETL Workflow for E-Commerce Insights**  
-  **Description:** Built a serverless pipeline for 1GB of daily data, reducing ingestion time by 40% with automated transformations and event-driven triggers.  
-  **Tools:** SQL, AWS Glue, AWS Lambda, Amazon S3  
-    
-## Work in Progress
-- F1-Strategic Intelligence Platform - A one-stop platform using F-1 API, Advanced ML, and enterprise-scale Data Engineering to build Optimized Race Strategies
-- Betting Analytics Engine - An end-to-end betting platform that processes and ingests sports data and uses predictive models for insights.
-- World Bank Data - Analyzing World Bank datasets to glean insights on global development metrics, Employing advanced data transformations and statistical modeling to highlight key socioeconomic trends across diverse regions
+### End-to-End Machine Learning & Analytics
+- Designing, training, and deploying **production-grade ML models** (classification, forecasting, clustering, NLP)
+- Experience with **XGBoost, LightGBM, Random Forests, deep learning, and time-series models** (ARIMA, LSTM)
+- Building **LLM-powered systems**, including **RAG pipelines, embedding search, and personalization models**
 
-## 
+### Data Engineering & Cloud Systems
+- Architecting **scalable pipelines** using **Spark, Airflow, Kafka, and cloud-native services**
+- Hands-on experience across **AWS, GCP, and Azure**, from ingestion to deployment
+- Advanced SQL and distributed data processing for **high-volume transactional data**
 
+### Business-Driven Problem Solving
+- Deep collaboration with **marketing, merchandising, operations, and public-sector stakeholders**
+- Turning analysis into **actionable strategies** that improve conversion, retention, and forecasting accuracy
+- Comfortable operating in **ambiguous, high-impact problem spaces**
+
+---
+
+## Selected Work & Projects
+
+### LLM-Based Personalization & Search (E-Commerce)
+- Built and fine-tuned **RAG and embedding-based retrieval systems** for product discovery and customer support
+- Improved **click-through rates by ~15%** and reduced response latency through optimized retrieval pipelines
+- **Stack:** Python, Hugging Face, LangChain, FAISS, Spark, SQL, GCP
+
+### Demand & Sales Forecasting
+- Developed **time-series and regression-based forecasting models** to improve inventory and campaign planning
+- Achieved **~15% improvement in forecast accuracy (MAPE)**
+- **Stack:** Python, XGBoost, ARIMA/LSTM, Spark
+
+### Credit Risk & Financial Modeling
+- Built **credit scoring and risk models**, including **Monte Carlo simulation–based portfolio optimization**
+- Designed APIs for **real-time loan risk assessment**
+- **Stack:** Python, Azure, Flask, MLflow
+
+### EV Adoption & Public-Sector Analytics
+- Analyzed large-scale economic and demographic datasets to identify **key drivers of EV adoption**
+- Delivered **prescriptive insights** for infrastructure and policy planning
+- **Stack:** Python, R, statistical modeling, visualization
+
+---
+
+## Current Work in Progress
+- **F1 Strategic Intelligence Platform** — Advanced ML + data engineering for race strategy optimization  
+- **Sports & Betting Analytics Engine** — End-to-end ingestion, modeling, and insight generation  
+- **World Bank Development Analytics** — Large-scale socioeconomic data modeling and trend analysis  
+
+---
+
+## Tech Stack (Condensed)
+
+- **Languages:** Python, SQL, R  
+- **ML / AI:** scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, Hugging Face  
+- **Data Engineering:** Spark, Airflow, Kafka, Databricks  
+- **Cloud:** AWS, GCP, Azure  
+- **BI & Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **MLOps:** Docker, Kubernetes, MLflow, CI/CD  
+
+---
+
+### How to Use This GitHub
+- **Completed projects** demonstrate **production-ready analytics and ML systems**
+- **Open projects** show how I design, iterate, and scale solutions in real time
+- Repositories emphasize **clean data, reproducibility, and business relevance**
