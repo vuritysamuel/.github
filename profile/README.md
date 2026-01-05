@@ -18,7 +18,17 @@ I’ve worked on **production ML systems** at organizations like **The Home Depo
 
 ---
 
-## What I’m Strong At
+## Tech Stack
+
+- **Languages:** Python, SQL, R  
+- **ML / AI:** scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, Hugging Face  
+- **Data Engineering:** Spark, Airflow, Kafka, Databricks  
+- **Cloud:** AWS, GCP, Azure  
+- **BI & Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **MLOps:** Docker, Kubernetes, MLflow, CI/CD  
+
+---
+## Experience Summary
 
 ### End-to-End Machine Learning & Analytics
 - Designing, training, and deploying **production-grade ML models** (classification, forecasting, clustering, NLP)
@@ -66,15 +76,7 @@ I’ve worked on **production ML systems** at organizations like **The Home Depo
 - **Sports & Betting Analytics Engine** — End-to-end ingestion, modeling, and insight generation  
 - **World Bank Development Analytics** — Large-scale socioeconomic data modeling and trend analysis  
 
----
 
-## Tech Stack
 
-- **Languages:** Python, SQL, R  
-- **ML / AI:** scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, Hugging Face  
-- **Data Engineering:** Spark, Airflow, Kafka, Databricks  
-- **Cloud:** AWS, GCP, Azure  
-- **BI & Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-- **MLOps:** Docker, Kubernetes, MLflow, CI/CD  
 
 ---
