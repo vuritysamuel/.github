@@ -3,7 +3,7 @@
 **Quick access:**  
 - **Projects:** https://github.com/orgs/vuritysamuel/repositories  
 - **Work in Progress:** https://github.com/orgs/vuritysamuel/projects  
-- **Resume:** https://www.dropbox.com/scl/fi/0p3s6c1xz5xtq5us8ekus/Resume_Samuel-Vijay-Srinivas-Vurity.pdf  
+- **Resume:** [https://www.dropbox.com/scl/fi/0p3s6c1xz5xtq5us8ekus/Resume_Samuel-Vijay-Srinivas-Vurity.pdf  ](https://www.dropbox.com/scl/fi/ub1gfimet9c3n02ps6f01/Samuel-Vurity_Resume.pdf?rlkey=quobtzxeb67ngq8t4vvrcyi1f&st=3lv03tg3&dl=0)
 - **Contact:** svurity1@gmail.com  
 
 ---
