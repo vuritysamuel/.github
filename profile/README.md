@@ -10,11 +10,11 @@
 
 # Hello — I’m Samuel
 
-I’m a **Data Scientist & Analytics Engineer** with **4+ years of experience** building end-to-end data and machine-learning solutions across **e-commerce, retail, healthcare, and financial services**.
+I’m a **Data Scientist & Analytics Engineer** with **4+ years of experience** building end-to-end data and machine-learning solutions across **e-commerce, retail and financial services**.
 
 My work spans **model development, large-scale data pipelines, cloud deployment, and decision-focused analytics**, with a consistent focus on translating complex data into **measurable business impact**.
 
-I’ve worked on **production ML systems** at organizations like **The Home Depot** and **Zensar Technologies**, and I’m currently completing a **Master’s in Data Science** while working as a **Data Analytics Intern at the BroadStreet Institute**.
+I’ve worked on **production ML systems** at organizations like **The Home Depot** and **Zensar Technologies**. 
 
 ---
 
@@ -68,7 +68,7 @@ I’ve worked on **production ML systems** at organizations like **The Home Depo
 
 ---
 
-## Tech Stack (Condensed)
+## Tech Stack
 
 - **Languages:** Python, SQL, R  
 - **ML / AI:** scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, Hugging Face  
@@ -78,8 +78,3 @@ I’ve worked on **production ML systems** at organizations like **The Home Depo
 - **MLOps:** Docker, Kubernetes, MLflow, CI/CD  
 
 ---
-
-### How to Use This GitHub
-- **Completed projects** demonstrate **production-ready analytics and ML systems**
-- **Open projects** show how I design, iterate, and scale solutions in real time
-- Repositories emphasize **clean data, reproducibility, and business relevance**
