@@ -8,7 +8,8 @@
 
 Now that that's out of the way, 
 # Hello,
-I’m Samuel, a Data Analytics Intern at the BroadStreet Institute. I hold a Bachelor’s in Computer Science and am finishing up a Master’s in Data Science. With internship experiences in a range of domains like Healthcare Analytics, Retail E-Commerce, and Marketing Analytics, I'm adept at building efficient systems and asking the right questions to solve complex Business Problems.
+I’m a Data Scientist & Analytics Engineer with 4+ years of experience building end-to-end data and machine-learning solutions across e-commerce, retail, healthcare, and financial services.
+My work spans model development, large-scale data pipelines, cloud deployment, and decision-focused analytics, with a consistent focus on translating complex data into measurable business impact.
 
 ## What I'm *Really* Good at
 - **Full-Stack Data Expertise** – I write efficient, optimized code in Python and advanced SQL, I'm experienced in building scalable pipelines (Airflow) and deploying models on cloud platforms (AWS). I excel in supervised learning (XGBoost, Random Forests), model tuning (GridSearchCV), and time-series analysis (ARIMA), and have hands-on PyTorch experience. 
