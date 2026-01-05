@@ -8,7 +8,7 @@
 
 ---
 
-# Hello — I’m Samuel
+# Hello, I’m Samuel
 
 I’m a **Data Scientist & Analytics Engineer** with **4+ years of experience** building end-to-end data and machine-learning solutions across **e-commerce, retail and financial services**.
 
